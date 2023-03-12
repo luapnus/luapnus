@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:luapnus@zju.edu.cn"}
-  - {title: GoogleScholar, icon: GoogleScholar, url: "https://scholar.google.com/citations?user=hc8wKBkAAAAJ&hl=zh-CN"}
+  - {title: Google Scholar, icon: Google Scholar, url: "https://scholar.google.com/citations?user=hc8wKBkAAAAJ&hl=zh-CN"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
